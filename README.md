@@ -1,5 +1,6 @@
-# Kat Fukui—@katmeister
-Hi, I'm Kat—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
+# Peyman Kor—@Peymankor
+
+Hi, I am Peyman Kor working on to connect Data Science with real world challenges to make impact. I do belive the ability get sense out of messy Data is a super power that could add significant value to any analytic team. :fire:
 
 ## My values
 🌟 Expression as authentic self<br>
