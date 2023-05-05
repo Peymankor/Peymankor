@@ -13,5 +13,4 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Twitter: https://twitter.com/peyman_kor
-- Personal site: https://peymankor.netlify.app/
 - Linkedin:https://www.linkedin.com/in/peyman-kor/
